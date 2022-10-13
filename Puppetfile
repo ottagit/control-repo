@@ -6,4 +6,3 @@ mod 'puppetlabs-ntp', '9.2.0'
 
 mod 'apache',
   git:    'https://github.com/ottagit/apache-puppet',
-#  branch: 'docs_experiment'
