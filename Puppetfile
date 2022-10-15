@@ -4,6 +4,7 @@ forge 'https://forge.puppet.com'
 # Versions should be updated to be the latest at the time you start
 mod 'puppetlabs-ntp', '9.2.0'
 mod 'puppetlabs-docker', '5.0.0'
+mod 'zanloy-tmux', '1.0.2'
 
 mod 'apache',
   :git => 'https://github.com/ottagit/apache-puppet.git',
