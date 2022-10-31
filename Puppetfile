@@ -10,3 +10,7 @@ mod 'jgoettsch-telnet', '0.1.0'
 mod 'apache',
   :git => 'https://github.com/ottagit/apache-puppet.git',
   :branch => 'main'
+
+mod 'base',
+  :git => 'https://github.com/ottagit/puppet_base.git',
+  :branch => 'main'
