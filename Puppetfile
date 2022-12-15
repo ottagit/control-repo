@@ -5,7 +5,6 @@ forge 'https://forge.puppet.com'
 mod 'puppetlabs-ntp', '9.2.0'
 mod 'zanloy-tmux', '1.0.2'
 mod 'jgoettsch-telnet', '0.1.0'
-mod 'puppetlabs-docker', '6.0.2'
 
 mod 'apache',
   :git => 'https://github.com/ottagit/apache-puppet.git',
